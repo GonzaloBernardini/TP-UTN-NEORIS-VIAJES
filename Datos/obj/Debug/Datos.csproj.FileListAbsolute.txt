@@ -1,0 +1,13 @@
+D:\cursos\TP\Datos\bin\Debug\Datos.dll.config
+D:\cursos\TP\Datos\bin\Debug\Datos.dll
+D:\cursos\TP\Datos\bin\Debug\Datos.pdb
+D:\cursos\TP\Datos\bin\Debug\Dominio.dll
+D:\cursos\TP\Datos\bin\Debug\EntityFramework.dll
+D:\cursos\TP\Datos\bin\Debug\EntityFramework.SqlServer.dll
+D:\cursos\TP\Datos\bin\Debug\Dominio.pdb
+D:\cursos\TP\Datos\bin\Debug\EntityFramework.xml
+D:\cursos\TP\Datos\bin\Debug\EntityFramework.SqlServer.xml
+D:\cursos\TP\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\cursos\TP\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\cursos\TP\Datos\obj\Debug\Datos.dll
+D:\cursos\TP\Datos\obj\Debug\Datos.pdb
